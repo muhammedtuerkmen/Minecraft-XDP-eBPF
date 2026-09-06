@@ -201,7 +201,7 @@ Current capabilities, honestly scoped:
 - Mitigation capacity: <TODO: nur angeben wenn vom Upstream vertraglich zugesichert>
 -->
 
-Documentation: [blackprotect.net/docs](https://blackprotect.net/docs) · Status: [status.blackprotect.net](https://status.blackprotect.net)
+Documentation: [docs.blackprotect.net](https://docs.blackprotect.net/) · Status: [status.blackprotect.net](https://status.blackprotect.net)
 
 ---
 
